@@ -1,3 +1,8 @@
+---
+title: 'The Impact of AI on The Job Market: A Closer Look'
+date: '2023-06-08'
+---
+
 # The Impact of AI on The Job Market: A Closer Look
 
 Hello, everyone! Today, let's dive into a topic that's generating considerable discussion - the influence of Artificial Intelligence (AI) on the job market.
@@ -6,7 +11,7 @@ Hello, everyone! Today, let's dive into a topic that's generating considerable d
 
 AI technology is advancing rapidly, influencing multiple sectors of our economy. One area in particular where AI has a significant impact is the job market.
 
-![AI and Jobs](https://example.com/aijobs.png)
+![AI and Jobs](@/public/images/ai-image1.jpg)
 
 ## AI and Job Automation
 
