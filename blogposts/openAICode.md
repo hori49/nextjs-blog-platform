@@ -28,8 +28,3 @@ While it can take time to start learning a new programming language, OpenAI Code
 ![Code Example](https://example.com/openaicodesample.png)
 
 That's all for the introduction of "OpenAI Code". Stay tuned for the next post.
-
----
-
-Above is the blog post sample written in markdown. This post introduces an imaginary programming language, "OpenAI Code". Please replace the `![Image Title](image url)` section with the URL of your image.
-
