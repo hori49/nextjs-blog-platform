@@ -11,7 +11,7 @@ Hello, everyone! Today, let's dive into a topic that's generating considerable d
 
 AI technology is advancing rapidly, influencing multiple sectors of our economy. One area in particular where AI has a significant impact is the job market.
 
-![AI and Jobs](@/public/images/ai-image1.jpg)
+![AI and Jobs](/images/ai-image1.jpg)
 
 ## AI and Job Automation
 
