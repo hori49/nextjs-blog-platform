@@ -11,7 +11,7 @@ Hello everyone, today I want to talk about a newly introduced programming langua
 
 OpenAI Code is an innovative programming language developed by OpenAI. This language, which is distinct from traditional programming paradigms, hints at the future of software development.
 
-![OpenAI Code Logo](https://example.com/openaicodelogo.png)
+![OpenAI Code Logo](/images/openAI-image.jpg)
 
 ## Features
 
