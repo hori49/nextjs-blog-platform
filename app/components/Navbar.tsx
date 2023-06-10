@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { FaHome, FaSearch, FaList } from "react-icons/fa"
+import { FaHome, FaSearch } from "react-icons/fa"
 
 export default function Navbar() {
   return (
@@ -13,9 +13,6 @@ export default function Navbar() {
         <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
           <Link className="text-white/90 hover:text-white" href="#">
             <FaSearch />
-          </Link>
-          <Link className="text-white/90 hover:text-white" href="#">
-            <FaList />
           </Link>
         </div>
       </div>
