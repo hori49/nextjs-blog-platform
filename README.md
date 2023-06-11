@@ -45,3 +45,6 @@ Open http://localhost:3000 with your browser to see the result.
 ## Deploying
 This application is built with Next.js and can be deployed on platforms like Vercel.
 See Vercel's official documentation for more information on deploying Next.js apps.
+
+## License
+This project is released under the MIT license. For more details, please refer to the LICENSE file.
