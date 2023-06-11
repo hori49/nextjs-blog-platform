@@ -1,7 +1,6 @@
 import getFormattedDate from "@/lib/getFormattedDate"
 import { getSortedPostsData, getPostData } from "@/lib/posts"
 import { notFound } from "next/navigation"
-import Image from 'next/image'
 import Link from "next/link"
 
 export function generateStaticParams() {
