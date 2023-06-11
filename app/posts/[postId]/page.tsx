@@ -43,7 +43,6 @@ export default async function Post({ params }: { params: { postId: string } }) {
 
     return (
       <main className="px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
-      {/* サムネイル画像 */}
       <Image src={thumbnail} alt={title} width={500} height={300}/>
       <h1 className="text-3xl mt-4 mb-0">{title}</h1>
       <p className="mt-0">{pubDate}</p>
