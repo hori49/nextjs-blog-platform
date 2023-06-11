@@ -1,6 +1,7 @@
 ---
 title: 'The Impact of AI on The Job Market: A Closer Look'
 date: '2023-06-08'
+thumbnail: "/images/ai-image1.jpg"
 ---
 
 # The Impact of AI on The Job Market: A Closer Look
