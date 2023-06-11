@@ -47,4 +47,4 @@ This application is built with Next.js and can be deployed on platforms like Ver
 See Vercel's official documentation for more information on deploying Next.js apps.
 
 ## License
-This project is released under the MIT license. For more details, please refer to the LICENSE file.
+This project is released under the MIT license. For more details, please refer to the `LICENSE` file.
