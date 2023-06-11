@@ -35,13 +35,11 @@ export default async function Post({ params }: { params: { postId: string } }) {
 
   if (!posts.find(post => post.id === postId)) notFound()
 
-  const { title, date, thumbnail, contentHtml } = await getPostData(postId)
+  const { date, contentHtml } = await getPostData(postId)
   const pubDate = getFormattedDate(date)
 
   return (
     <main className="px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
-      <Image src={thumbnail} alt={title} width={500} height={300}/>
-      <h1 className="text-3xl mt-4 mb-0">{title}</h1>
       <p className="mt-0">{pubDate}</p>
       <article>
         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
