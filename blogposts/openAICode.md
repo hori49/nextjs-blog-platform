@@ -1,6 +1,7 @@
 ---
 title: 'Introducing the New Programming Language, "OpenAI Code"'
 date: '2023-06-09'
+thumbnail: "/images/openAI-image.jpg"
 ---
 
 # Introducing the New Programming Language, "OpenAI Code"
