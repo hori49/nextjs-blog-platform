@@ -15,7 +15,7 @@ Posts are sorted by date and displayed in a list, with each post showing a title
 First, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/hori49/nextjs-blog-platform.git
 ```
 
 Then, navigate into your project directory:
